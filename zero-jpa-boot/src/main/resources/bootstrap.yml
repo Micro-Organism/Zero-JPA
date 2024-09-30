@@ -1,0 +1,8 @@
+server:
+    port: 8080
+
+spring:
+    application:
+        name: zero-jpa-boot
+    profiles:
+        active: dev
